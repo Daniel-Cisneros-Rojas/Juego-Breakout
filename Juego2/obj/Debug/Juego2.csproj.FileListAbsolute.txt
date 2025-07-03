@@ -1,0 +1,17 @@
+E:\c#\SharpDevelop Projects\Juego2\Juego2\bin\Debug\Juego2.exe.config
+E:\c#\SharpDevelop Projects\Juego2\Juego2\bin\Debug\Juego2.exe
+E:\c#\SharpDevelop Projects\Juego2\Juego2\bin\Debug\Juego2.pdb
+E:\c#\SharpDevelop Projects\Juego2\Juego2\bin\Debug\OpenTK.dll
+E:\c#\SharpDevelop Projects\Juego2\Juego2\bin\Debug\OpenTK.pdb
+E:\c#\SharpDevelop Projects\Juego2\Juego2\bin\Debug\OpenTK.xml
+E:\c#\SharpDevelop Projects\Juego2\Juego2\obj\Debug\Juego2.csprojResolveAssemblyReference.cache
+E:\c#\SharpDevelop Projects\Juego2\Juego2\obj\Debug\Juego2.exe
+E:\c#\SharpDevelop Projects\Juego2\Juego2\obj\Debug\Juego2.pdb
+D:\Documents\Juego2\Juego2\bin\Debug\Juego2.exe.config
+D:\Documents\Juego2\Juego2\bin\Debug\Juego2.exe
+D:\Documents\Juego2\Juego2\bin\Debug\Juego2.pdb
+D:\Documents\Juego2\Juego2\bin\Debug\OpenTK.pdb
+D:\Documents\Juego2\Juego2\bin\Debug\OpenTK.xml
+D:\Documents\Juego2\Juego2\obj\Debug\Juego2.csprojResolveAssemblyReference.cache
+D:\Documents\Juego2\Juego2\obj\Debug\Juego2.exe
+D:\Documents\Juego2\Juego2\obj\Debug\Juego2.pdb
