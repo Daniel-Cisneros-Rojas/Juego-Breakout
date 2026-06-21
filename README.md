@@ -16,7 +16,7 @@ Animaciones fluidas y dinámicas.
 Estilo retro inspirado en el clásico Breakout.
 
 # Tecnologías utilizadas
-Lenguaje: C#
+Lenguaje: C# 
 
 Librería gráfica: OpenTK
 
